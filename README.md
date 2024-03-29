@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unicorn2022wbdev
+- 👋 Hi, I’m @NitinReddy-dev
 - 👀 I’m interested in WEB Devlopment and WEB 3 Space.
 - 🌱 I’m currently learning WEB Devlopment
 - 💞️ I’m looking to collaborate on ...
