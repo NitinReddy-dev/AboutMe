@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NitinReddy-dev
-- 👀 I’m interested in WEB Devlopment and WEB 3 Space.
+- 👀 I’m interested in WEB Dev and AI
 - 🌱 I’m currently learning WEB Devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nitin.code2@gmail.com
