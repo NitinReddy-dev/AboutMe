@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitinReddy-dev
 - 👀 I’m interested in WEB Dev and AI
-- 🌱 I’m currently learning WEB Devlopment
+- 🌱 I’m currently exploring Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nitin.code2@gmail.com
 - [![unicorn2022wbdev's GitHub | Stats](https://stats.quine.sh/unicorn2022wbdev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=unicorn2022wbdev)
